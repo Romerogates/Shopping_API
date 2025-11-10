@@ -1,0 +1,47 @@
+﻿** Met en surbrillance
+     Tables qui seront recréées avec les données migrées
+       Aucun
+     Index ordonnés en clusters à supprimer
+       Aucun
+     Index ordonnés en clusters à créer.
+       Aucun
+     Problèmes de données possibles
+       Aucun
+
+** Actions de l'utilisateur
+     Créer
+       [dbo].[Role] (Table)
+       [dbo].[ShoppingList] (Table)
+       [dbo].[ShoppingListItem] (Table)
+       [dbo].[User] (Table)
+       Contrainte par défaut: contrainte sans nom sur [dbo].[ShoppingList] (Contrainte par défaut)
+       Contrainte par défaut: contrainte sans nom sur [dbo].[ShoppingList] (Contrainte par défaut)
+       Contrainte par défaut: contrainte sans nom sur [dbo].[ShoppingListItem] (Contrainte par défaut)
+       Contrainte par défaut: contrainte sans nom sur [dbo].[ShoppingListItem] (Contrainte par défaut)
+       Contrainte par défaut: contrainte sans nom sur [dbo].[ShoppingListItem] (Contrainte par défaut)
+       Contrainte par défaut: contrainte sans nom sur [dbo].[ShoppingListItem] (Contrainte par défaut)
+       Contrainte par défaut: contrainte sans nom sur [dbo].[User] (Contrainte par défaut)
+       Contrainte par défaut: contrainte sans nom sur [dbo].[User] (Contrainte par défaut)
+       Contrainte par défaut: contrainte sans nom sur [dbo].[User] (Contrainte par défaut)
+       Contrainte par défaut: contrainte sans nom sur [dbo].[User] (Contrainte par défaut)
+       Contrainte par défaut: contrainte sans nom sur [dbo].[User] (Contrainte par défaut)
+       [dbo].[FK_ShoppingList_User] (Clé étrangère)
+       [dbo].[FK_ShoppingListItem_List] (Clé étrangère)
+       [dbo].[FK_User_Role] (Clé étrangère)
+       [dbo].[SF_USER_hashAndSalt] (Fonction)
+       [dbo].[SP_ADMIN_getRoles] (Procédure)
+       [dbo].[SP_ADMIN_ROLE_create] (Procédure)
+       [dbo].[SP_ADMIN_ROLE_delete] (Procédure)
+       [dbo].[SP_ADMIN_ROLE_update] (Procédure)
+       [dbo].[SP_ADMIN_USER_getAll] (Procédure)
+       [dbo].[SP_ADMIN_USER_getById] (Procédure)
+       [dbo].[SP_ADMIN_USER_update] (Procédure)
+       [dbo].[SP_USER_LIST_create] (Procédure)
+       [dbo].[SP_USER_LIST_getAll] (Procédure)
+       [dbo].[SP_USER_LIST_getById] (Procédure)
+       [dbo].[SP_USER_USER_create] (Procédure)
+       [dbo].[SP_USER_USER_disable] (Procédure)
+       [dbo].[SP_USER_USER_login] (Procédure)
+       [dbo].[SP_USER_USER_update] (Procédure)
+
+** Actions de support

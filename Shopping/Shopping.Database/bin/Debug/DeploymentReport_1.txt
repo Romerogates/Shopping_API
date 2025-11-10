@@ -1,0 +1,46 @@
+﻿** Met en surbrillance
+     Tables qui seront recréées avec les données migrées
+       [dbo].[User]
+     Index ordonnés en clusters à supprimer
+       Aucun
+     Index ordonnés en clusters à créer.
+       Aucun
+     Problèmes de données possibles
+       La colonne [dbo].[User].[Email] de la table [dbo].[User] doit être ajoutée mais la colonne ne comporte pas de valeur par
+         défaut et n'autorise pas les valeurs NULL. Si la table contient des données, le script ALTER ne fonctionnera pas. Pour
+         éviter ce problème, vous devez ajouter une valeur par défaut à la colonne, la marquer comme autorisant les valeurs Null
+         ou activer la génération de smart-defaults en tant qu'option de déploiement.
+       La colonne [dbo].[User].[Password] de la table [dbo].[User] doit être ajoutée mais la colonne ne comporte pas de valeur
+         par défaut et n'autorise pas les valeurs NULL. Si la table contient des données, le script ALTER ne fonctionnera pas.
+         Pour éviter ce problème, vous devez ajouter une valeur par défaut à la colonne, la marquer comme autorisant les valeurs
+         Null ou activer la génération de smart-defaults en tant qu'option de déploiement.
+       La colonne [dbo].[User].[Username] de la table [dbo].[User] doit être ajoutée mais la colonne ne comporte pas de valeur
+         par défaut et n'autorise pas les valeurs NULL. Si la table contient des données, le script ALTER ne fonctionnera pas.
+         Pour éviter ce problème, vous devez ajouter une valeur par défaut à la colonne, la marquer comme autorisant les valeurs
+         Null ou activer la génération de smart-defaults en tant qu'option de déploiement.
+
+** Actions de l'utilisateur
+     Recréer la table
+       [dbo].[User] (Table)
+     Créer
+       [dbo].[Role] (Table)
+       [dbo].[FK_User_Role] (Clé étrangère)
+       [dbo].[SF_USER_hashAndSalt] (Fonction)
+       [dbo].[SP_ADMIN_getRoles] (Procédure)
+       [dbo].[SP_ADMIN_ROLE_create] (Procédure)
+       [dbo].[SP_ADMIN_ROLE_delete] (Procédure)
+       [dbo].[SP_ADMIN_ROLE_update] (Procédure)
+       [dbo].[SP_ADMIN_USER_getAll] (Procédure)
+       [dbo].[SP_ADMIN_USER_getById] (Procédure)
+       [dbo].[SP_ADMIN_USER_update] (Procédure)
+       [dbo].[SP_USER_USER_create] (Procédure)
+       [dbo].[SP_USER_USER_disable] (Procédure)
+       [dbo].[SP_USER_USER_login] (Procédure)
+       [dbo].[SP_USER_USER_update] (Procédure)
+
+** Actions de support
+
+La colonne [dbo].[User].[Email] de la table [dbo].[User] doit être ajoutée mais la colonne ne comporte pas de valeur par défaut et n'autorise pas les valeurs NULL. Si la table contient des données, le script ALTER ne fonctionnera pas. Pour éviter ce problème, vous devez ajouter une valeur par défaut à la colonne, la marquer comme autorisant les valeurs Null ou activer la génération de smart-defaults en tant qu'option de déploiement.
+La colonne [dbo].[User].[Password] de la table [dbo].[User] doit être ajoutée mais la colonne ne comporte pas de valeur par défaut et n'autorise pas les valeurs NULL. Si la table contient des données, le script ALTER ne fonctionnera pas. Pour éviter ce problème, vous devez ajouter une valeur par défaut à la colonne, la marquer comme autorisant les valeurs Null ou activer la génération de smart-defaults en tant qu'option de déploiement.
+La colonne [dbo].[User].[Username] de la table [dbo].[User] doit être ajoutée mais la colonne ne comporte pas de valeur par défaut et n'autorise pas les valeurs NULL. Si la table contient des données, le script ALTER ne fonctionnera pas. Pour éviter ce problème, vous devez ajouter une valeur par défaut à la colonne, la marquer comme autorisant les valeurs Null ou activer la génération de smart-defaults en tant qu'option de déploiement.
+

@@ -1,0 +1,6 @@
+C:\Users\Antho\Pro-Code\FORMATION\Projects\Shopping\back_end\Shopping\Shopping.Database\bin\Debug\Shopping.Database.dacpac
+C:\Users\Antho\Pro-Code\FORMATION\Projects\Shopping\back_end\Shopping\Shopping.Database\bin\Debug\Shopping.Database.dll
+C:\Users\Antho\Pro-Code\FORMATION\Projects\Shopping\back_end\Shopping\Shopping.Database\bin\Debug\Shopping.Database.pdb
+C:\Users\Antho\Pro-Code\FORMATION\Projects\Shopping\back_end\Shopping\Shopping.Database\obj\Debug\Shopping.Database.sqlproj.AssemblyReference.cache
+C:\Users\Antho\Pro-Code\FORMATION\Projects\Shopping\back_end\Shopping\Shopping.Database\obj\Debug\Shopping.Database.dll
+C:\Users\Antho\Pro-Code\FORMATION\Projects\Shopping\back_end\Shopping\Shopping.Database\obj\Debug\Shopping.Database.pdb

@@ -1,0 +1,29 @@
+﻿** Met en surbrillance
+     Tables qui seront recréées avec les données migrées
+       Aucun
+     Index ordonnés en clusters à supprimer
+       Aucun
+     Index ordonnés en clusters à créer.
+       Aucun
+     Problèmes de données possibles
+       Aucun
+
+** Actions de l'utilisateur
+     Créer
+       [dbo].[ShoppingList] (Table)
+       [dbo].[ShoppingListItem] (Table)
+       Contrainte par défaut: contrainte sans nom sur [dbo].[ShoppingList] (Contrainte par défaut)
+       Contrainte par défaut: contrainte sans nom sur [dbo].[ShoppingList] (Contrainte par défaut)
+       Contrainte par défaut: contrainte sans nom sur [dbo].[ShoppingListItem] (Contrainte par défaut)
+       Contrainte par défaut: contrainte sans nom sur [dbo].[ShoppingListItem] (Contrainte par défaut)
+       Contrainte par défaut: contrainte sans nom sur [dbo].[ShoppingListItem] (Contrainte par défaut)
+       Contrainte par défaut: contrainte sans nom sur [dbo].[ShoppingListItem] (Contrainte par défaut)
+       [dbo].[FK_ShoppingList_User] (Clé étrangère)
+       [dbo].[FK_ShoppingListItem_List] (Clé étrangère)
+       [dbo].[SP_USER_LIST_create] (Procédure)
+       [dbo].[SP_USER_LIST_getAll] (Procédure)
+       [dbo].[SP_USER_LIST_getById] (Procédure)
+     Modifier
+       [dbo].[SP_USER_USER_create] (Procédure)
+
+** Actions de support

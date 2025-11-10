@@ -1,0 +1,11 @@
+C:\Users\Antho\Pro-Code\FORMATION\Projects\Shopping\back_end\Shopping\Shopping.Tools.CQS\bin\Debug\net8.0\Shopping.Tools.CQS.deps.json
+C:\Users\Antho\Pro-Code\FORMATION\Projects\Shopping\back_end\Shopping\Shopping.Tools.CQS\bin\Debug\net8.0\Shopping.Tools.CQS.dll
+C:\Users\Antho\Pro-Code\FORMATION\Projects\Shopping\back_end\Shopping\Shopping.Tools.CQS\bin\Debug\net8.0\Shopping.Tools.CQS.pdb
+C:\Users\Antho\Pro-Code\FORMATION\Projects\Shopping\back_end\Shopping\Shopping.Tools.CQS\obj\Debug\net8.0\Shopping.Tools.CQS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Antho\Pro-Code\FORMATION\Projects\Shopping\back_end\Shopping\Shopping.Tools.CQS\obj\Debug\net8.0\Shopping.Tools.CQS.AssemblyInfoInputs.cache
+C:\Users\Antho\Pro-Code\FORMATION\Projects\Shopping\back_end\Shopping\Shopping.Tools.CQS\obj\Debug\net8.0\Shopping.Tools.CQS.AssemblyInfo.cs
+C:\Users\Antho\Pro-Code\FORMATION\Projects\Shopping\back_end\Shopping\Shopping.Tools.CQS\obj\Debug\net8.0\Shopping.Tools.CQS.csproj.CoreCompileInputs.cache
+C:\Users\Antho\Pro-Code\FORMATION\Projects\Shopping\back_end\Shopping\Shopping.Tools.CQS\obj\Debug\net8.0\Shopping.Tools.CQS.dll
+C:\Users\Antho\Pro-Code\FORMATION\Projects\Shopping\back_end\Shopping\Shopping.Tools.CQS\obj\Debug\net8.0\refint\Shopping.Tools.CQS.dll
+C:\Users\Antho\Pro-Code\FORMATION\Projects\Shopping\back_end\Shopping\Shopping.Tools.CQS\obj\Debug\net8.0\Shopping.Tools.CQS.pdb
+C:\Users\Antho\Pro-Code\FORMATION\Projects\Shopping\back_end\Shopping\Shopping.Tools.CQS\obj\Debug\net8.0\ref\Shopping.Tools.CQS.dll

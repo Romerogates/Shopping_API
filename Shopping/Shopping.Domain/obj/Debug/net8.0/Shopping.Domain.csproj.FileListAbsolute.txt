@@ -1,0 +1,17 @@
+C:\Users\Antho\Pro-Code\FORMATION\Projects\Shopping\back_end\Shopping\Shopping.Domain\bin\Debug\net8.0\Shopping.Domain.deps.json
+C:\Users\Antho\Pro-Code\FORMATION\Projects\Shopping\back_end\Shopping\Shopping.Domain\bin\Debug\net8.0\Shopping.Domain.dll
+C:\Users\Antho\Pro-Code\FORMATION\Projects\Shopping\back_end\Shopping\Shopping.Domain\bin\Debug\net8.0\Shopping.Domain.pdb
+C:\Users\Antho\Pro-Code\FORMATION\Projects\Shopping\back_end\Shopping\Shopping.Domain\bin\Debug\net8.0\Shopping.Tools.CQS.dll
+C:\Users\Antho\Pro-Code\FORMATION\Projects\Shopping\back_end\Shopping\Shopping.Domain\bin\Debug\net8.0\Shopping.Tools.Database.dll
+C:\Users\Antho\Pro-Code\FORMATION\Projects\Shopping\back_end\Shopping\Shopping.Domain\bin\Debug\net8.0\Shopping.Tools.CQS.pdb
+C:\Users\Antho\Pro-Code\FORMATION\Projects\Shopping\back_end\Shopping\Shopping.Domain\bin\Debug\net8.0\Shopping.Tools.Database.pdb
+C:\Users\Antho\Pro-Code\FORMATION\Projects\Shopping\back_end\Shopping\Shopping.Domain\obj\Debug\net8.0\Shopping.Domain.csproj.AssemblyReference.cache
+C:\Users\Antho\Pro-Code\FORMATION\Projects\Shopping\back_end\Shopping\Shopping.Domain\obj\Debug\net8.0\Shopping.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Antho\Pro-Code\FORMATION\Projects\Shopping\back_end\Shopping\Shopping.Domain\obj\Debug\net8.0\Shopping.Domain.AssemblyInfoInputs.cache
+C:\Users\Antho\Pro-Code\FORMATION\Projects\Shopping\back_end\Shopping\Shopping.Domain\obj\Debug\net8.0\Shopping.Domain.AssemblyInfo.cs
+C:\Users\Antho\Pro-Code\FORMATION\Projects\Shopping\back_end\Shopping\Shopping.Domain\obj\Debug\net8.0\Shopping.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Antho\Pro-Code\FORMATION\Projects\Shopping\back_end\Shopping\Shopping.Domain\obj\Debug\net8.0\Shopping.6C2602C9.Up2Date
+C:\Users\Antho\Pro-Code\FORMATION\Projects\Shopping\back_end\Shopping\Shopping.Domain\obj\Debug\net8.0\Shopping.Domain.dll
+C:\Users\Antho\Pro-Code\FORMATION\Projects\Shopping\back_end\Shopping\Shopping.Domain\obj\Debug\net8.0\refint\Shopping.Domain.dll
+C:\Users\Antho\Pro-Code\FORMATION\Projects\Shopping\back_end\Shopping\Shopping.Domain\obj\Debug\net8.0\Shopping.Domain.pdb
+C:\Users\Antho\Pro-Code\FORMATION\Projects\Shopping\back_end\Shopping\Shopping.Domain\obj\Debug\net8.0\ref\Shopping.Domain.dll

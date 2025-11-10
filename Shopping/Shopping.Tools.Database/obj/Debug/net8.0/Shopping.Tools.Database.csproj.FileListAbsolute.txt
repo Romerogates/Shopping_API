@@ -1,0 +1,11 @@
+C:\Users\Antho\Pro-Code\FORMATION\Projects\Shopping\back_end\Shopping\Shopping.Tools.Database\bin\Debug\net8.0\Shopping.Tools.Database.deps.json
+C:\Users\Antho\Pro-Code\FORMATION\Projects\Shopping\back_end\Shopping\Shopping.Tools.Database\bin\Debug\net8.0\Shopping.Tools.Database.dll
+C:\Users\Antho\Pro-Code\FORMATION\Projects\Shopping\back_end\Shopping\Shopping.Tools.Database\bin\Debug\net8.0\Shopping.Tools.Database.pdb
+C:\Users\Antho\Pro-Code\FORMATION\Projects\Shopping\back_end\Shopping\Shopping.Tools.Database\obj\Debug\net8.0\Shopping.Tools.Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Antho\Pro-Code\FORMATION\Projects\Shopping\back_end\Shopping\Shopping.Tools.Database\obj\Debug\net8.0\Shopping.Tools.Database.AssemblyInfoInputs.cache
+C:\Users\Antho\Pro-Code\FORMATION\Projects\Shopping\back_end\Shopping\Shopping.Tools.Database\obj\Debug\net8.0\Shopping.Tools.Database.AssemblyInfo.cs
+C:\Users\Antho\Pro-Code\FORMATION\Projects\Shopping\back_end\Shopping\Shopping.Tools.Database\obj\Debug\net8.0\Shopping.Tools.Database.csproj.CoreCompileInputs.cache
+C:\Users\Antho\Pro-Code\FORMATION\Projects\Shopping\back_end\Shopping\Shopping.Tools.Database\obj\Debug\net8.0\Shopping.Tools.Database.dll
+C:\Users\Antho\Pro-Code\FORMATION\Projects\Shopping\back_end\Shopping\Shopping.Tools.Database\obj\Debug\net8.0\refint\Shopping.Tools.Database.dll
+C:\Users\Antho\Pro-Code\FORMATION\Projects\Shopping\back_end\Shopping\Shopping.Tools.Database\obj\Debug\net8.0\Shopping.Tools.Database.pdb
+C:\Users\Antho\Pro-Code\FORMATION\Projects\Shopping\back_end\Shopping\Shopping.Tools.Database\obj\Debug\net8.0\ref\Shopping.Tools.Database.dll
